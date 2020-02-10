@@ -1,0 +1,90 @@
+\renewcommand{\thesubparagraph}{}
+\renewcommand{\theparagraph}{}
+
+\newcommand{\BackImage}[2][{scale = 1}]{
+	\BgThispage
+	\backgroundsetup{
+      contents={
+		\ifodd\value{page}
+         	\includegraphics[{#1, width = \paperwidth, height = \paperheight}]{#2}
+        \else
+       		 \includegraphics[{#1, width = -\paperwidth, height = \paperheight}]{#2}
+		\fi
+        }
+    }
+}
+
+\newcommand{\imgFundoTexto}[2]{
+  \newpage
+  \begin{tikzpicture}[remember picture, overlay]
+  \tikzset{inner sep=0pt,outer sep=0pt}
+  \node at (current page.center){\includegraphics[{height=\paperheight, width = \paperwidth}]{imagens/#1}};
+  \end{tikzpicture}
+  #2
+  \newpage
+}
+
+\newcommand{\imgFundo}[1]{
+  \newpage
+  \begin{tikzpicture}[remember picture, overlay]
+  \tikzset{inner sep=0pt,outer sep=0pt}
+  \node at (current page.center){\includegraphics[{height=\paperheight, width = \paperwidth}]{imagens/#1}};
+  \end{tikzpicture}
+  \newpage
+}
+
+\newcommand{\imgColuna}[1]{
+  \imgColunaLegenda{#1}{}
+}
+
+\newcommand{\imgColunaLegenda}[2]{
+\imgColunaLegendaTexto{#1}{#2}{}
+}
+
+\newcommand{\imgColunaLegendaTexto}[3]{
+\begin{center}
+    \begin{tikzpicture}[remember picture]
+      \tikzset{inner sep=0pt,outer sep=0pt}
+      \node (at) (current page.center){
+        \includegraphics[{width=0.95\linewidth}]{#1}};
+    \end{tikzpicture}
+    #2
+\end{center}
+#3
+}
+
+\newcommand{\imgColunaGraphic}[2]{
+\begin{center}
+    \begin{tikzpicture}[remember picture]
+      \tikzset{inner sep=0pt,outer sep=0pt}
+      \node (at) (current page.center){#1};
+    \end{tikzpicture}
+    #2
+\end{center}
+}
+
+\newcommand{\preencher}{
+\hfill 
+\vfill
+\null
+}
+
+\newcommand{\titulo}[1]{
+  \begin{center}
+    \section{\LARGE \bf #1}
+  \end{center}
+}
+
+\newcommand{\tituloM}[4]{
+  \begin{center}
+    \section{\LARGE \bf #1}
+    \livro{#2}, v#3 #4.
+  \end{center}
+}
+
+\newcommand{\livro}[1]{Livro Base: #1}
+
+\definecolor{vermelhoE}{rgb}{0.7, 0, 0}
+\definecolor{verdeE}{rgb}{0, 0.7, 0}
+\definecolor{azulE}{rgb}{0, 0, 0.7}
+\definecolor{cinza}{rgb}{0.7,0.7,0.7}
