@@ -1,471 +1,497 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.10.20)  22 OCT 2018 22:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.15)  15 MAY 2023 13:35
 entering extended mode
-**"d:/Junior/Projetos Latex/Manual Lobisomem/main.tex"
-("d:/Junior/Projetos Latex/Manual Lobisomem/main.tex"
-LaTeX2e <2018-04-01> patch level 5
-(essenciais/preambulo.tex ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/Alberto/Projetos/Latex/RPG-WOD-werewolf-manual/main.tex
+(d:/Alberto/Projetos/Latex/RPG-WOD-werewolf-manual/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-05-11> (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2018/04/06 v1.3b Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2018/06/05 3.22 The Babel package
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2018/06/05 3.22 Babel switching mechanism
-)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/05/11 v3.89 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+(C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf"
-Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2018/06/05 3.22 Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def")
-\bbl@dirlevel=\count89
-)
-\l@brazil = a dialect from \language\l@portuges 
-Package babel Info: Making " an active character on input line 145.
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\enitkv@toks@=\toks16
-\labelindent=\skip43
-\enit@outerparindent=\dimen104
-\enit@toks=\toks17
-\enit@inbox=\box26
-\enitdp@description=\count90
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty"
-Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
-\c@tracingmulticols=\count91
-\mult@box=\box27
-\multicol@leftmargin=\dimen105
-\c@unbalance=\count92
-\c@collectmore=\count93
-\doublecol@number=\count94
-\multicoltolerance=\count95
-\multicolpretolerance=\count96
-\full@width=\dimen106
-\page@free=\dimen107
-\premulticols=\dimen108
-\postmulticols=\dimen109
-\multicolsep=\skip44
-\multicolbaselineskip=\skip45
-\partial@page=\box28
-\last@line=\box29
-\maxbalancingoverflow=\dimen110
-\mult@rightbox=\box30
-\mult@grightbox=\box31
-\mult@gfirstbox=\box32
-\mult@firstbox=\box33
-\@tempa=\box34
-\@tempa=\box35
-\@tempa=\box36
-\@tempa=\box37
-\@tempa=\box38
-\@tempa=\box39
-\@tempa=\box40
-\@tempa=\box41
-\@tempa=\box42
-\@tempa=\box43
-\@tempa=\box44
-\@tempa=\box45
-\@tempa=\box46
-\@tempa=\box47
-\@tempa=\box48
-\@tempa=\box49
-\@tempa=\box50
-\c@columnbadness=\count97
-\c@finalcolumnbadness=\count98
-\last@try=\dimen111
-\multicolovershoot=\dimen112
-\multicolundershoot=\dimen113
-\mult@nat@firstbox=\box51
-\colbreak@box=\box52
-\mc@col@check@num=\count99
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazil.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language56). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks18
+\labelindent=\skip50
+\enit@outerparindent=\dimen142
+\enit@toks=\toks19
+\enit@inbox=\box51
+\enit@count@id=\count195
+\enitdp@description=\count196
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count197
+\mult@box=\box52
+\multicol@leftmargin=\dimen143
+\c@unbalance=\count198
+\c@collectmore=\count199
+\doublecol@number=\count266
+\multicoltolerance=\count267
+\multicolpretolerance=\count268
+\full@width=\dimen144
+\page@free=\dimen145
+\premulticols=\dimen146
+\postmulticols=\dimen147
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box53
+\last@line=\box54
+\maxbalancingoverflow=\dimen148
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@firstbox=\box57
+\mult@gfirstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\c@minrows=\count269
+\c@columnbadness=\count270
+\c@finalcolumnbadness=\count271
+\last@try=\dimen149
+\multicolovershoot=\dimen150
+\multicolundershoot=\dimen151
+\mult@nat@firstbox=\box95
+\colbreak@box=\box96
+\mc@col@check@num=\count272
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen114
-\Gin@req@width=\dimen115
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-\Urlmuskip=\muskip10
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\opensans\opensans.sty"
-Package: opensans 2011/11/11 Opensans
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\slantsc\slantsc.sty"
-Package: slantsc 2012/01/01 v2.11 Provide Slanted an Italic Small Caps
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/opensans\opensans.sty
+Package: opensans 2019/06/20 Style file for Open Sans.
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
 )
-LaTeX Info: Redefining \upshape on input line 35.
-LaTeX Info: Redefining \slshape on input line 45.
-LaTeX Info: Redefining \itshape on input line 55.
-LaTeX Info: Redefining \scshape on input line 65.
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen116
-\lightrulewidth=\dimen117
-\cmidrulewidth=\dimen118
-\belowrulesep=\dimen119
-\belowbottomsep=\dimen120
-\aboverulesep=\dimen121
-\abovetopsep=\dimen122
-\cmidrulesep=\dimen123
-\cmidrulekern=\dimen124
-\defaultaddspace=\dimen125
-\@cmidla=\count100
-\@cmidlb=\count101
-\@aboverulesep=\dimen126
-\@belowrulesep=\dimen127
-\@thisruleclass=\count102
-\@lastruleclass=\count103
-\@thisrulewidth=\dimen128
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+\XKV@depth=\count273
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen154
+\lightrulewidth=\dimen155
+\cmidrulewidth=\dimen156
+\belowrulesep=\dimen157
+\belowbottomsep=\dimen158
+\aboverulesep=\dimen159
+\abovetopsep=\dimen160
+\cmidrulesep=\dimen161
+\cmidrulekern=\dimen162
+\defaultaddspace=\dimen163
+\@cmidla=\count274
+\@cmidlb=\count275
+\@aboverulesep=\dimen164
+\@belowrulesep=\dimen165
+\@thisruleclass=\count276
+\@lastruleclass=\count277
+\@thisrulewidth=\dimen166
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count104
-\float@exts=\toks19
-\float@box=\box53
-\@float@everytoks=\toks20
-\@floatcapt=\box54
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+\c@float@type=\count278
+\float@exts=\toks23
+\float@box=\box97
+\@float@everytoks=\toks24
+\@floatcapt=\box98
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count105
-\Gm@cntv=\count106
-\c@Gm@tempcnt=\count107
-\Gm@bindingoffset=\dimen129
-\Gm@wd@mp=\dimen130
-\Gm@odd@mp=\dimen131
-\Gm@even@mp=\dimen132
-\Gm@layoutwidth=\dimen133
-\Gm@layoutheight=\dimen134
-\Gm@layouthoffset=\dimen135
-\Gm@layoutvoffset=\dimen136
-\Gm@dimlist=\toks21
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen167
+\Gm@wd@mp=\dimen168
+\Gm@odd@mp=\dimen169
+\Gm@even@mp=\dimen170
+\Gm@layoutwidth=\dimen171
+\Gm@layoutheight=\dimen172
+\Gm@layouthoffset=\dimen173
+\Gm@layoutvoffset=\dimen174
+\Gm@dimlist=\toks25
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
-Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
-\col@sep=\dimen137
-\ar@mcellbox=\box55
-\extrarowheight=\dimen138
-\NC@list=\toks22
-\extratabsurround=\skip46
-\backup@length=\skip47
-\ar@cellbox=\box56
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen175
+\ar@mcellbox=\box99
+\extrarowheight=\dimen176
+\NC@list=\toks26
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box100
 )
-\everycr=\toks23
-\minrowclearance=\skip48
-)
-\rownum=\count108
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\background\background.sty"
+\everycr=\toks27
+\minrowclearance=\skip55
+\rownum=\count282
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/background\background.sty
 Package: background 2014/03/04 v2.1 background material
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
-\XKV@toks=\toks24
-\XKV@tempa@toks=\toks25
-)
-\XKV@depth=\count109
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
-\pgfutil@everybye=\toks26
-\pgfutil@tempdima=\dimen139
-\pgfutil@tempdimb=\dimen140
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex")) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
-\pgfutil@abb=\box57
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
-Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen177
+\pgfutil@tempdimb=\dimen178
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box101
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
-Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
-Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks27
-\pgfkeys@temptoks=\toks28
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks29
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
 ))
-\pgf@x=\dimen141
-\pgf@y=\dimen142
-\pgf@xa=\dimen143
-\pgf@ya=\dimen144
-\pgf@xb=\dimen145
-\pgf@yb=\dimen146
-\pgf@xc=\dimen147
-\pgf@yc=\dimen148
+\pgf@x=\dimen179
+\pgf@y=\dimen180
+\pgf@xa=\dimen181
+\pgf@ya=\dimen182
+\pgf@xb=\dimen183
+\pgf@yb=\dimen184
+\pgf@xc=\dimen185
+\pgf@yc=\dimen186
+\pgf@xd=\dimen187
+\pgf@yd=\dimen188
 \w@pgf@writea=\write3
-\r@pgf@reada=\read1
-\c@pgf@counta=\count110
-\c@pgf@countb=\count111
-\c@pgf@countc=\count112
-\c@pgf@countd=\count113
-\t@pgf@toka=\toks30
-\t@pgf@tokb=\toks31
-\t@pgf@tokc=\toks32
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
-File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+\r@pgf@reada=\read3
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count287
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
-))) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count114
-\pgfsyssoftpath@bigbuffer@items=\count115
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex"
-File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
-Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen149
-\pgfmath@count=\count116
-\pgfmath@box=\box58
-\pgfmath@toks=\toks33
-\pgfmath@stack@operand=\toks34
-\pgfmath@stack@operation=\toks35
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex") ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count117
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen150
-\pgf@picmaxx=\dimen151
-\pgf@picminy=\dimen152
-\pgf@picmaxy=\dimen153
-\pgf@pathminx=\dimen154
-\pgf@pathmaxx=\dimen155
-\pgf@pathminy=\dimen156
-\pgf@pathmaxy=\dimen157
-\pgf@xx=\dimen158
-\pgf@xy=\dimen159
-\pgf@yx=\dimen160
-\pgf@yy=\dimen161
-\pgf@zx=\dimen162
-\pgf@zy=\dimen163
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen164
-\pgf@path@lasty=\dimen165
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen166
-\pgf@shorten@start@additional=\dimen167
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box59
-\pgf@hbox=\box60
-\pgf@layerbox@main=\box61
-\pgf@picture@serial@count=\count118
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen168
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen169
-\pgf@pt@y=\dimen170
-\pgf@pt@temp=\dimen171
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
-File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex"
-File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen172
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen173
-\pgf@sys@shading@range@num=\count119
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box62
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-))) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box63
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen174
-\pgf@nodesepend=\dimen175
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex")) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty" ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
-Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen176
-\pgffor@skip=\dimen177
-\pgffor@stack=\toks36
-\pgffor@toks=\toks37
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
-Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count120
-\pgfplotmarksize=\dimen178
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count288
+\pgfsyssoftpath@bigbuffer@items=\count289
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen189
+\pgfmath@count=\count290
+\pgfmath@box=\box102
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count291
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen190
+\pgf@picmaxx=\dimen191
+\pgf@picminy=\dimen192
+\pgf@picmaxy=\dimen193
+\pgf@pathminx=\dimen194
+\pgf@pathmaxx=\dimen195
+\pgf@pathminy=\dimen196
+\pgf@pathmaxy=\dimen197
+\pgf@xx=\dimen198
+\pgf@xy=\dimen199
+\pgf@yx=\dimen256
+\pgf@yy=\dimen257
+\pgf@zx=\dimen258
+\pgf@zy=\dimen259
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen260
+\pgf@path@lasty=\dimen261
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen262
+\pgf@shorten@start@additional=\dimen263
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box103
+\pgf@hbox=\box104
+\pgf@layerbox@main=\box105
+\pgf@picture@serial@count=\count292
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen264
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen265
+\pgf@pt@y=\dimen266
+\pgf@pt@temp=\dimen267
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen268
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen269
+\pgf@sys@shading@range@num=\count293
+\pgf@shadingcount=\count294
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box106
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box107
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen270
+\pgf@nodesepend=\dimen271
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen272
+\pgffor@skip=\dimen273
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count295
+\pgfplotmarksize=\dimen274
 )
-\tikz@lastx=\dimen179
-\tikz@lasty=\dimen180
-\tikz@lastxsaved=\dimen181
-\tikz@lastysaved=\dimen182
-\tikzleveldistance=\dimen183
-\tikzsiblingdistance=\dimen184
-\tikz@figbox=\box64
-\tikz@figbox@bg=\box65
-\tikz@tempbox=\box66
-\tikz@tempbox@bg=\box67
-\tikztreelevel=\count121
-\tikznumberofchildren=\count122
-\tikznumberofcurrentchild=\count123
-\tikz@fig@count=\count124
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count125
-\pgfmatrixcurrentcolumn=\count126
-\pgf@matrix@numberofcolumns=\count127
+\tikz@lastx=\dimen275
+\tikz@lasty=\dimen276
+\tikz@lastxsaved=\dimen277
+\tikz@lastysaved=\dimen278
+\tikz@lastmovetox=\dimen279
+\tikz@lastmovetoy=\dimen280
+\tikzleveldistance=\dimen281
+\tikzsiblingdistance=\dimen282
+\tikz@figbox=\box108
+\tikz@figbox@bg=\box109
+\tikz@tempbox=\box110
+\tikz@tempbox@bg=\box111
+\tikztreelevel=\count296
+\tikznumberofchildren=\count297
+\tikznumberofcurrentchild=\count298
+\tikz@fig@count=\count299
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count300
+\pgfmatrixcurrentcolumn=\count301
+\pgf@matrix@numberofcolumns=\count302
 )
-\tikz@expandcount=\count128
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\everypage\everypage.sty"
-Package: everypage 2007/06/20 1.1 Hooks to run on every page
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\afterpage.sty"
+\tikz@expandcount=\count303
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/everypage\everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks38
-\AP@partial=\box68
-\AP@footins=\box69
-)) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytrees.code.tex"
-File: tikzlibrarytrees.code.tex 2008/02/24 v3.0.1a (rcs-revision 1.2)
-) (essenciais/comandos.tex)) (main.aux)
+\AP@output=\toks40
+\AP@partial=\box112
+\AP@footins=\box113
+)) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box114
+) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 124.
+LaTeX Font Info:    ... okay on input line 124.
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count129
-\scratchdimen=\dimen185
-\scratchbox=\box70
-\nofMPsegments=\count130
-\nofMParguments=\count131
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count132
-\MPscratchDim=\dimen186
-\MPnumerator=\count133
-\makeMPintoPDFobject=\count134
-\everyMPtoPDFconversion=\toks40
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-))) ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
+\scratchcounter=\count305
+\scratchdimen=\dimen283
+\scratchbox=\box115
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen284
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks42
+) (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\jrdap\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@mv@tabular=\count311
+\c@mv@boldtabular=\count312
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -500,43 +526,33 @@ Package grfext Info: Graphics extension search list:
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-ABD: EveryShipout initializing macros
 <imagens/capa.jpg, id=4, 600.2425pt x 845.1575pt>
 File: imagens/capa.jpg Graphic file (type jpg)
 <use imagens/capa.jpg>
-Package pdftex.def Info: imagens/capa.jpg  used on input line 9.
+Package pdftex.def Info: imagens/capa.jpg  used on input line 126.
 (pdftex.def)             Requested size: 614.34581pt x 794.9898pt.
- [1{C:/Users/jrdap/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+[1{C:/Users/jrdap/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./imagens/capa.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 129.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 129.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
- (informacoes.tex
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
- ("C:\Users\jrdap\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 23.
-)
+(Font)              <6> on input line 129.
+ (informacoes.tex)
 <imagens/background.png, id=10, 572.99786pt x 815.61858pt>
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 18.
+Package pdftex.def Info: imagens/background.png  used on input line 135.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 18.
+Package pdftex.def Info: imagens/background.png  used on input line 135.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
  [2 <./imagens/background.png>] (main.toc
-LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 48.
@@ -549,23 +565,18 @@ Package pdftex.def Info: imagens/background.png  used on input line 96.
  [4]
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 145.
+Package pdftex.def Info: imagens/background.png  used on input line 144.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [5]
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 190.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [6])
+ [5])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 20.
+Package pdftex.def Info: imagens/background.png  used on input line 137.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [7] (credos.tex
-<imagens/credos.png, id=40, 1888.05376pt x 2643.8775pt>
+ [6] (credos.tex
+<imagens/credos.png, id=35, 1888.05376pt x 2643.8775pt>
 File: imagens/credos.png Graphic file (type png)
 <use imagens/credos.png>
 Package pdftex.def Info: imagens/credos.png  used on input line 45.
@@ -574,8 +585,8 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 45.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [8 <./imagens/credos.png>]) (combate.tex
-<imagens/combate.jpg, id=46, 600.2425pt x 845.1575pt>
+ [7 <./imagens/credos.png>]) (combate.tex
+<imagens/combate.jpg, id=42, 600.2425pt x 845.1575pt>
 File: imagens/combate.jpg Graphic file (type jpg)
 <use imagens/combate.jpg>
 Package pdftex.def Info: imagens/combate.jpg  used on input line 1.
@@ -584,38 +595,38 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 1.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [9 <./imagens/combate.jpg>] (combate/combate_a_distancia.tex
+ [8 <./imagens/combate.jpg>] (combate/combate_a_distancia.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 33.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [10]) (combate/combate_proximo.tex
+ [9]) (combate/combate_proximo.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 26.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [11]
+ [10]
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 85.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [12]) (combate/complicacoes.tex) (combate/manobras_especiais.tex
+ [11]) (combate/complicacoes.tex) (combate/manobras_especiais.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 19.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [13]
+ [12]
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 56.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [14])
+ [13])
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 9.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [15]
-<imagens/manobras_combate.jpg, id=70, 600.2425pt x 845.1575pt>
+ [14]
+<imagens/manobras_combate.jpg, id=66, 600.2425pt x 845.1575pt>
 File: imagens/manobras_combate.jpg Graphic file (type jpg)
 <use imagens/manobras_combate.jpg>
 Package pdftex.def Info: imagens/manobras_combate.jpg  used on input line 9.
@@ -624,14 +635,14 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 9.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [16 <./imagens/manobras_combate.jpg>] (combate/arquearia.tex) (combate/correntes.tex
+ [15 <./imagens/manobras_combate.jpg>] (combate/arquearia.tex) (combate/correntes.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 26.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [17]
+ [16]
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
-  \OMS/cmsy/b/n/10.95  \OT1/cmr/bx/n/10.95 Es-tran-gu-la-mento:[] \OT1/cmr/m/n/10.95 Seu per-so-na-gem
+  \TS1/cmr/bx/n/10.95 ˆˆˆˆ \OT1/cmr/bx/n/10.95 Es-tran-gu-la-mento:[] \OT1/cmr/m/n/10.95 Seu per-so-na-gem
  []
 
 ) (combate/dk_alberto.tex
@@ -639,50 +650,43 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 39.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [18]
+ [17]
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 103.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [19]) (combate/escudo.tex
+ [18]) (combate/esgrima.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 42.
+Package pdftex.def Info: imagens/background.png  used on input line 41.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [20]) (combate/esgrima.tex
+ [19]) (combate/facas.tex
+File: imagens/background.png Graphic file (type png)
+<use imagens/background.png>
+Package pdftex.def Info: imagens/background.png  used on input line 58.
+(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
+ [20]) (combate/iskakku.tex
+File: imagens/background.png Graphic file (type png)
+<use imagens/background.png>
+Package pdftex.def Info: imagens/background.png  used on input line 56.
+(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
+ [21]) (combate/kailindo.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 40.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [21]) (combate/facas.tex
+ [22]
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 54.
+Package pdftex.def Info: imagens/background.png  used on input line 117.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [22]) (combate/iskakku.tex
+ [23])
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 52.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [23]) (combate/kailindo.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 32.
+Package pdftex.def Info: imagens/background.png  used on input line 26.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
  [24]
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 111.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [25])
-Overfull \vbox (7.78911pt too high) has occurred while \output is active []
-
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 24.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [26]
-<imagens/taticas_matilha.jpg, id=106, 600.2425pt x 845.1575pt>
+<imagens/taticas_matilha.jpg, id=98, 600.2425pt x 845.1575pt>
 File: imagens/taticas_matilha.jpg Graphic file (type jpg)
 <use imagens/taticas_matilha.jpg>
 Package pdftex.def Info: imagens/taticas_matilha.jpg  used on input line 26.
@@ -691,23 +695,23 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 26.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [27 <./imagens/taticas_matilha.jpg>] (combate/taticas_matilha.tex
+ [25 <./imagens/taticas_matilha.jpg>] (combate/taticas_matilha.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 40.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [28]
+ [26]
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 76.
+Package pdftex.def Info: imagens/background.png  used on input line 83.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [29])) (sistemas_dramaticos.tex
+ [27])) (sistemas_dramaticos.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 1.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [30]
-<imagens/sistemas_dramaticos.jpg, id=119, 600.2425pt x 845.1575pt>
+ [28]
+<imagens/sistemas_dramaticos.jpg, id=112, 600.2425pt x 845.1575pt>
 File: imagens/sistemas_dramaticos.jpg Graphic file (type jpg)
 <use imagens/sistemas_dramaticos.jpg>
 Package pdftex.def Info: imagens/sistemas_dramaticos.jpg  used on input line 1.
@@ -716,13 +720,13 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 1.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [31 <./imagens/sistemas_dramaticos.jpg>]) (tabelas.tex
+ [29 <./imagens/sistemas_dramaticos.jpg>]) (tabelas.tex
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 1.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [32]
-<imagens/conhecimentos.jpg, id=127, 600.2425pt x 845.1575pt>
+ [30]
+<imagens/conhecimentos.jpg, id=119, 600.2425pt x 845.1575pt>
 File: imagens/conhecimentos.jpg Graphic file (type jpg)
 <use imagens/conhecimentos.jpg>
 Package pdftex.def Info: imagens/conhecimentos.jpg  used on input line 1.
@@ -731,220 +735,63 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 1.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [33 <./imagens/conhecimentos.jpg>] (tabelas/armas_brancas.tex)
+ [31 <./imagens/conhecimentos.jpg>] (tabelas/armas_brancas.tex)
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 28.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [34] (tabelas/armas_fogo.tex
+ [32] (tabelas/armas_fogo.tex
+
+LaTeX Warning: Reference `revolver' on page 33 undefined on input line 11.
+
+
+LaTeX Warning: Reference `pistola_leve' on page 33 undefined on input line 18.
+
+
+LaTeX Warning: Reference `pistola_pesada' on page 33 undefined on input line 23.
+
+
+LaTeX Warning: Reference `pistola_auto' on page 33 undefined on input line 28.
+
+
+LaTeX Warning: Reference `barra_pesada' on page 33 undefined on input line 33.
+
+
+LaTeX Warning: Reference `escopeta' on page 33 undefined on input line 38.
+
+
+LaTeX Warning: Reference `subm_leve' on page 33 undefined on input line 43.
+
+
+LaTeX Warning: Reference `fuzil_monotiro' on page 33 undefined on input line 49.
+
+
+LaTeX Warning: Reference `fuzil_assalto' on page 33 undefined on input line 56.
+
+
+LaTeX Warning: Reference `rifle' on page 33 undefined on input line 63.
+
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 92.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [35])
+[33])
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 31.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [36] (tabelas/fetiche_custo.tex)
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 34.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [37] (tabelas/rituais.tex)
+ [34] (tabelas/rituais.tex)
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 38.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [38] (tabelas/recursos.tex) (tabelas/tabela_xp_posto.tex)
+ [35] (tabelas/tabela_xp_posto.tex)
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 43.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [39]) (regras.tex
-<imagens/regras_ouro.jpg, id=151, 600.2425pt x 845.1575pt>
-File: imagens/regras_ouro.jpg Graphic file (type jpg)
-<use imagens/regras_ouro.jpg>
-Package pdftex.def Info: imagens/regras_ouro.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.34581pt x 794.9898pt.
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 1.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [40 <./imagens/regras_ouro.jpg>] (regras/outros.tex (regras/proeficiencia.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
-  \OT1/cmr/bx/n/10.95 Di-fi-cul-dade dos Ata-ques fo-ca-li-za-dos:[]
- []
-
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 44.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
-[41]) (regras/formas.tex) (regras/atributos.tex) (regras/armas.tex) (regras/dons.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 9.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [42]) (regras/fetiches.tex) (regras/qualidades.tex)) (cronicas.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 1.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [43]
-<imagens/cronica.jpg, id=165, 603.2136pt x 845.0772pt>
-File: imagens/cronica.jpg Graphic file (type jpg)
-<use imagens/cronica.jpg>
-Package pdftex.def Info: imagens/cronica.jpg  used on input line 1.
-(pdftex.def)             Requested size: 614.31247pt x 794.97874pt.
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 1.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [44 <./imagens/cronica.jpg>] (cronicas/pos_apocalipse/pos_apocalipse.tex (cronicas/pos_apocalipse/cenario.tex
-<imagens/cidade_1.jpg, id=169, 578.16pt x 325.215pt>
-File: imagens/cidade_1.jpg Graphic file (type jpg)
-<use imagens/cidade_1.jpg>
-Package pdftex.def Info: imagens/cidade_1.jpg  used on input line 5.
-(pdftex.def)             Requested size: 540.31767pt x 303.94545pt.
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 15.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [45 <./imagens/cidade_1.jpg>]
-<imagens/cidade_2.jpg, id=173, 1606.0pt x 863.225pt>
-File: imagens/cidade_2.jpg Graphic file (type jpg)
-<use imagens/cidade_2.jpg>
-Package pdftex.def Info: imagens/cidade_2.jpg  used on input line 19.
-(pdftex.def)             Requested size: 251.90007pt x 135.39227pt.
-<imagens/cidade.jpg, id=174, 1431.84938pt x 1431.84938pt>
-File: imagens/cidade.jpg Graphic file (type jpg)
-<use imagens/cidade.jpg>
-Package pdftex.def Info: imagens/cidade.jpg  used on input line 22.
-(pdftex.def)             Requested size: 251.90007pt x 251.88829pt.
-<imagens/civis.jpg, id=175, 1614.03pt x 977.6525pt>
-File: imagens/civis.jpg Graphic file (type jpg)
-<use imagens/civis.jpg>
-Package pdftex.def Info: imagens/civis.jpg  used on input line 27.
-(pdftex.def)             Requested size: 251.90007pt x 152.57881pt.
-<imagens/penumbra.jpg, id=176, 501.875pt x 378.41376pt>
-File: imagens/penumbra.jpg Graphic file (type jpg)
-<use imagens/penumbra.jpg>
-Package pdftex.def Info: imagens/penumbra.jpg  used on input line 32.
-(pdftex.def)             Requested size: 251.90007pt x 189.93394pt.
-
-Underfull \hbox (badness 6575) in paragraph at lines 35--35
- \OT1/cmr/bx/n/10.95 A vi-si-bi-li-dade na pe-num-bra e sem-pre
- []
-
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 35.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
-[46 <./imagens/cidade_2.jpg> <./imagens/cidade.jpg> <./imagens/civis.jpg> <./imagens/penumbra.jpg>]
-<imagens/espirito_torturado.jpg, id=181, 565.11125pt x 523.9575pt>
-File: imagens/espirito_torturado.jpg Graphic file (type jpg)
-<use imagens/espirito_torturado.jpg>
-Package pdftex.def Info: imagens/espirito_torturado.jpg  used on input line 36.
-(pdftex.def)             Requested size: 251.90007pt x 233.54811pt.
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 39.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [47 <./imagens/espirito_torturado.jpg>]) (cronicas/pos_apocalipse/aliados.tex
-<imagens/ian.jpg, id=185, 181.3977pt x 214.8828pt>
-File: imagens/ian.jpg Graphic file (type jpg)
-<use imagens/ian.jpg>
-Package pdftex.def Info: imagens/ian.jpg  used on input line 3.
-(pdftex.def)             Requested size: 251.90007pt x 298.4075pt.
-<imagens/hans.jpg, id=186, 684.5575pt x 839.135pt>
-File: imagens/hans.jpg Graphic file (type jpg)
-<use imagens/hans.jpg>
-Package pdftex.def Info: imagens/hans.jpg  used on input line 9.
-(pdftex.def)             Requested size: 251.90007pt x 308.77213pt.
-<imagens/hanna.jpg, id=187, 525.965pt x 598.235pt>
-File: imagens/hanna.jpg Graphic file (type jpg)
-<use imagens/hanna.jpg>
-Package pdftex.def Info: imagens/hanna.jpg  used on input line 13.
-(pdftex.def)             Requested size: 251.90007pt x 286.51054pt.
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 15.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [48 <./imagens/ian.jpg> <./imagens/hans.jpg>]
-<imagens/dom.jpg, id=191, 583.17876pt x 525.965pt>
-File: imagens/dom.jpg Graphic file (type jpg)
-<use imagens/dom.jpg>
-Package pdftex.def Info: imagens/dom.jpg  used on input line 19.
-(pdftex.def)             Requested size: 251.90007pt x 227.1878pt.
-<imagens/mike.jpg, id=192, 738.76pt x 951.555pt>
-File: imagens/mike.jpg Graphic file (type jpg)
-<use imagens/mike.jpg>
-Package pdftex.def Info: imagens/mike.jpg  used on input line 24.
-(pdftex.def)             Requested size: 251.90007pt x 324.45367pt.
-<imagens/wanessa.jpg, id=193, 581.17125pt x 546.04pt>
-File: imagens/wanessa.jpg Graphic file (type jpg)
-<use imagens/wanessa.jpg>
-Package pdftex.def Info: imagens/wanessa.jpg  used on input line 29.
-(pdftex.def)             Requested size: 251.90007pt x 236.67563pt.
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 29.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [49 <./imagens/hanna.jpg> <./imagens/dom.jpg>]
-<imagens/abrigo.jpg, id=198, 1109.8263pt x 1098.7449pt>
-File: imagens/abrigo.jpg Graphic file (type jpg)
-<use imagens/abrigo.jpg>
-Package pdftex.def Info: imagens/abrigo.jpg  used on input line 35.
-(pdftex.def)             Requested size: 251.90007pt x 249.38644pt.
-) (cronicas/pos_apocalipse/antagonistas.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 5.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [50 <./imagens/mike.jpg> <./imagens/wanessa.jpg> <./imagens/abrigo.jpg>]
-<imagens/cacadores.jpg, id=202, 672.8337pt x 405.4347pt>
-File: imagens/cacadores.jpg Graphic file (type jpg)
-<use imagens/cacadores.jpg>
-Package pdftex.def Info: imagens/cacadores.jpg  used on input line 11.
-(pdftex.def)             Requested size: 251.90007pt x 151.79018pt.
-<imagens/juiz.jpg, id=203, 566.115pt x 524.96124pt>
-File: imagens/juiz.jpg Graphic file (type jpg)
-<use imagens/juiz.jpg>
-Package pdftex.def Info: imagens/juiz.jpg  used on input line 16.
-(pdftex.def)             Requested size: 251.90007pt x 233.58699pt.
-) (cronicas/pos_apocalipse/sistema.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 1.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [51 <./imagens/cacadores.jpg>]) (cronicas/pos_apocalipse/totens.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 3.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [52 <./imagens/juiz.jpg>]
-<imagens/skoll.jpg, id=210, 566.115pt x 731.73375pt>
-File: imagens/skoll.jpg Graphic file (type jpg)
-<use imagens/skoll.jpg>
-Package pdftex.def Info: imagens/skoll.jpg  used on input line 3.
-(pdftex.def)             Requested size: 251.90007pt x 325.59258pt.
-<imagens/hati.jpg, id=211, 501.875pt x 376.40625pt>
-File: imagens/hati.jpg Graphic file (type jpg)
-<use imagens/hati.jpg>
-Package pdftex.def Info: imagens/hati.jpg  used on input line 21.
-(pdftex.def)             Requested size: 251.90007pt x 188.92633pt.
-) (cronicas/pos_apocalipse/dossie.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 7.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [53 <./imagens/skoll.jpg> <./imagens/hati.jpg>]))) (litania.tex
-File: imagens/background.png Graphic file (type png)
-<use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 38.
-(pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [54]
-<imagens/litania.png, id=218, 604.1772pt x 846.0408pt>
+ [36]) (litania.tex
+<imagens/litania.png, id=140, 604.1772pt x 846.0408pt>
 File: imagens/litania.png Graphic file (type png)
 <use imagens/litania.png>
 Package pdftex.def Info: imagens/litania.png  used on input line 38.
@@ -953,29 +800,33 @@ File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
 Package pdftex.def Info: imagens/background.png  used on input line 38.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [55 <./imagens/litania.png>])
-<imagens/fundo.jpg, id=224, 603.25375pt x 844.15375pt>
+ [37 <./imagens/litania.png>])
+<imagens/fundo.jpg, id=146, 603.25375pt x 844.15375pt>
 File: imagens/fundo.jpg Graphic file (type jpg)
 <use imagens/fundo.jpg>
-Package pdftex.def Info: imagens/fundo.jpg  used on input line 31.
+Package pdftex.def Info: imagens/fundo.jpg  used on input line 148.
 (pdftex.def)             Requested size: 614.28894pt x 794.98593pt.
 File: imagens/background.png Graphic file (type png)
 <use imagens/background.png>
-Package pdftex.def Info: imagens/background.png  used on input line 31.
+Package pdftex.def Info: imagens/background.png  used on input line 148.
 (pdftex.def)             Requested size: 572.99646pt x 815.6166pt.
- [56 <./imagens/fundo.jpg>] (main.aux) ) 
+ [38 <./imagens/fundo.jpg>] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 14068 strings out of 492973
- 283228 string characters out of 3126691
- 363648 words of memory out of 3000000
- 17462 multiletter control sequences out of 15000+200000
- 12114 words of font info for 42 fonts, out of 3000000 for 9000
+ 15407 strings out of 476360
+ 319871 string characters out of 5788025
+ 1885993 words of memory out of 5000000
+ 35457 multiletter control sequences out of 15000+600000
+ 520883 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,10n,59p,1142b,996s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (56 pages, 8149026 bytes).
+ 99i,14n,94p,1079b,1055s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\jrdap\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1095.pk> <C:\Users\jrdap\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/jrdap/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (38 pages, 2475625 bytes).
 PDF statistics:
- 271 PDF objects out of 1000 (max. 8388607)
+ 200 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
